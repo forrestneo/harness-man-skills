@@ -1,6 +1,6 @@
 # Yurenshu · 驭人术
 
-> **The Art of Managing People** — 70 stratagems, 700 cases, and a complete playbook for leading a team. In the spirit of *The Art of War*, but for the wars that happen inside offices.
+> **The Art of Managing People** — 70 stratagems, 700 cases, and a complete playbook for leading a team. In the spirit of *The Art of War*, but for the wars that happen inside offices. **Works in both Chinese and English**: ask in English, get an English prescription card (see `references/19-中英索引.md` — the bilingual index with the full 70-rule lookup table and English templates).
 
 [中文 README](README.md) · MIT License
 

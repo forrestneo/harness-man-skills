@@ -1,6 +1,6 @@
 ---
 name: 驭人术
-description: 教领导管人的诊断-开方系统。70个下属问题→定性（不会/不为/结构）→八大药柜开方→落地步骤→话术→忌口，每条配10个案例（企业/历史/研究/反例四类）。当用户描述下属行为问题、带人难题、团队困境，或要系统学习、写作、讲授驭人术内容时使用。
+description: 教领导管人的诊断-开方系统（中英双语可用）。70个下属问题→定性（不会/不为/结构）→九大药柜开方→落地步骤→话术→忌口，每条配10个案例（企业/历史/研究/反例四类）。当用户描述下属行为问题、带人难题、团队困境，或要系统学习、写作、讲授驭人术内容时使用。Bilingual (Chinese/English): a diagnose-and-prescribe system for managing people. 70 subordinate problems → diagnosis (skill/will/structure) → remedy from 9 cabinets → steps → scripts → contraindications, 10 cases per rule. Use when the user, in Chinese OR English, describes a people-management problem—difficult employee, underperformer, team conflict, slacking, delegation, feedback, perfectionism, cliques, blame-shifting—or wants to study/write/teach this material. Follow the user's language for output; see the Language Protocol and references/19-中英索引.md for the bilingual lookup table.
 ---
 
 # 驭人术：原来领导都是这样管理下属的
@@ -26,7 +26,14 @@ description: 教领导管人的诊断-开方系统。70个下属问题→定性�
 3. **事前能防，还是只能事后救？**
    - 高频复发的问题，优先上"立规矩""留痕迹"两柜，把下一次消灭在发生前。
 
-## 三、八大药柜（70 条索引）
+## 语言协议（Language Protocol）
+
+1. **输出语言跟随提问语言**：中文提问按中文开方，英文提问按英文开方，混语提问用主要语言。
+2. **英文模式的定位路径**：英文症状 → 查 references/19-中英索引.md 的 70 条对照表 → 定位条号与柜位 → 读对应中文案例库 → 用英文输出开方卡（案例名、典籍、人物按索引的"引用规范"转译）。
+3. **中文专名的英文处理**：公司用官方英文名（Huawei, Haidilao, Pang Donglai）；典籍用通行译名（Records of the Grand Historian, Zizhi Tongjian）；人名用拼音（Zhang Liang, Li Mu）；计名首次出现给英译＋拼音，如 "Erect the Pole to Earn Trust (limu quxin)"。
+4. **话术双版本**：英文开方卡的 Script 按英文职场语感写，不逐字直译中文话术；忌口与红线条款在英文模式同样生效。
+
+## 三、九大药柜（70 条索引）
 
 | 柜 | 定位 | 条目 | 案例文件 |
 |---|---|---|---|
@@ -49,6 +56,8 @@ description: 教领导管人的诊断-开方系统。70个下属问题→定性�
 小说与通俗史三柜：references/14-明朝那些事儿.md——明代官场组织病全标本（张居正考成法、朱升九字策、杨溥狱中读书、海瑞悖论、崇祯换五十相、袁崇焕五年平辽、李成梁养寇自重）；references/15-三国演义.md——谋略话术库，**每个案例标注【正史】【演义】【虚构】【反转】**（割发代首、煮酒论英雄、望梅止渴、杨修之死、白帝托孤、单刀赴会的反转）；references/16-西游记.md——团队管理寓言（唐僧团队四种人、紧箍咒的差异化约束、蟠桃会激励遗漏、三打白骨精、有背景的妖怪、八十一难节点化）——零解释成本，专给正史案例做降维解释。
 
 references/17-水浒传.md——**组织失败全标本**（王伦之死、排座次、生辰纲对照组、三打祝家庄复盘、及时雨信用定投、赚卢俊义式招聘反面、燕青辞赏、征方腊并购悲剧）——70 条里"不做会怎样"的反面样本库，与德鲁克柜一反一正对读；references/18-德鲁克.md——**现代管理学户口**（MBO、用人所长、效果优先、摆脱昨天、反馈分析法、知识工作者、边界条件等十三讲，每讲挂策位＋东西对照古典案例）——给 70 条民间偏方补理论锚点，写内容时"德鲁克＋古典案例"双背书。
+
+双语索引：references/19-中英索引.md——**Bilingual Index**：70 条症状/计名/药方中英对照总表、九柜英文名、心法三问与开方卡的英文模板、计名英译与专名引用规范。英文开方必经此柜。
 
 话术与红线在最后：references/10-话术与红线.md
 
