@@ -30,8 +30,9 @@ description: 教领导管人的诊断-开方系统（中英双语可用）。70�
 
 1. **输出语言跟随提问语言**：中文提问按中文开方，英文提问按英文开方，混语提问用主要语言。
 2. **英文模式的定位路径**：英文症状 → 查 references/19-中英索引.md 的 70 条对照表 → 定位条号与柜位 → 读对应中文案例库 → 用英文输出开方卡（案例名、典籍、人物按索引的"引用规范"转译）。
-3. **中文专名的英文处理**：公司用官方英文名（Huawei, Haidilao, Pang Donglai）；典籍用通行译名（Records of the Grand Historian, Zizhi Tongjian）；人名用拼音（Zhang Liang, Li Mu）；计名首次出现给英译＋拼音，如 "Erect the Pole to Earn Trust (limu quxin)"。
-4. **话术双版本**：英文开方卡的 Script 按英文职场语感写，不逐字直译中文话术；忌口与红线条款在英文模式同样生效。
+3. **译法原则（重要）**：这是管理学的 skill，不是战争技术——英文层只用管理与医药语言（diagnose / prescribe / remedy / dosage / contraindication），**禁用战争词汇**（war / battle / stratagem / king / capture / conquer 等）。中文计名保留兵书格的文化气质，英译一律给职场语义（如 擒贼擒王→Conclusion First、化整为零→Break It Down、令行禁止→Deadline, Owner, Acceptance）。
+4. **中文专名的英文处理**：公司用官方英文名（Huawei, Haidilao, Pang Donglai）；典籍用通行译名（Records of the Grand Historian, Zizhi Tongjian）；人名用拼音（Zhang Liang, Li Mu）；计名首次出现给英译＋拼音，如 "Earn Trust First (limu quxin)"。
+5. **话术双版本**：英文开方卡的 Script 按英文职场语感写，不逐字直译中文话术；忌口与红线条款在英文模式同样生效。
 
 ## 三、九大药柜（70 条索引）
 
