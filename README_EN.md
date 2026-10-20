@@ -89,10 +89,10 @@ Running through all of it, the **mirror principle**: only moves that survive bei
 git clone https://github.com/forrestneo/harness-man-skills.git
 
 # Claude Code
-cp -r harness-man-skills/skills/yurenshu ~/.claude/skills/
+cp -r harness-man-skills/skills/harness-man-skills ~/.claude/skills/
 
 # ZCode
-cp -r harness-man-skills/skills/yurenshu ~/.zcode/skills/
+cp -r harness-man-skills/skills/harness-man-skills ~/.zcode/skills/
 
 # Codex and other Agent Skills-compatible tools: same idea
 ```
@@ -110,7 +110,7 @@ Then just ask — a specific problem or a vague situation, in Chinese or English
 ## Repository layout
 
 ```
-skills/yurenshu/
+skills/harness-man-skills/
 ├── SKILL.md                  # The mindset framework: mission → beliefs → assessment → dual entry → action card
 └── references/
     ├── 00-驭人七十策.md        # Master file (names / jingles / allusions / notes)

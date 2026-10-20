@@ -89,10 +89,10 @@
 git clone https://github.com/forrestneo/harness-man-skills.git
 
 # Claude Code
-cp -r harness-man-skills/skills/yurenshu ~/.claude/skills/
+cp -r harness-man-skills/skills/harness-man-skills ~/.claude/skills/
 
 # ZCode
-cp -r harness-man-skills/skills/yurenshu ~/.zcode/skills/
+cp -r harness-man-skills/skills/harness-man-skills ~/.zcode/skills/
 
 # Codex 及其他支持 Agent Skills 的工具同理
 ```
@@ -110,7 +110,7 @@ cp -r harness-man-skills/skills/yurenshu ~/.zcode/skills/
 ## 目录结构
 
 ```
-skills/yurenshu/
+skills/harness-man-skills/
 ├── SKILL.md                     # 思维训练框架：使命→信念→定性→双入口→行动卡
 └── references/
     ├── 00-驭人七十策.md           # 总纲（计名/计诀/正反典/按语）

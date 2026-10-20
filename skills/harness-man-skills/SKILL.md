@@ -1,5 +1,5 @@
 ---
-name: 驭人术
+name: harness-man-skills
 description: 培养管理思维的正向系统（中英双语，双入口）。入口A·情景匹配：用户描述具体问题→复合匹配70条中的2-4条→行动卡（含三回合攻防推演）；入口B·环境评估：用户只能描述处境→五维评估→处境命名→降维洞察→路径。70个管理情境×10案例=700条，帮每个人成就下属、成就团队、成就自己，也管好AI智能体。A positive bilingual management-development skill with dual entry points: (A) scenario matching — compound-match a specific problem to 2-4 of the 70 rules, output an action card with a three-round game tree; (B) situation assessment — five dimensions, a naming library, insight-grade output, and a 30/60/90 path. 70 situations × 10 cases = 700 entries. Helps everyone grow people, grow teams, and manage AI agents. Use for any people-management or AI-collaboration question, in Chinese or English.
 ---
 
