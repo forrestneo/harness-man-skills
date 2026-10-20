@@ -86,13 +86,13 @@ Running through all of it, the **mirror principle**: only moves that survive bei
 ## Quick start
 
 ```bash
-git clone https://github.com/forrestneo/yurenshu.git
+git clone https://github.com/forrestneo/harness-man-skills.git
 
 # Claude Code
-cp -r yurenshu/skills/yurenshu ~/.claude/skills/
+cp -r harness-man-skills/skills/yurenshu ~/.claude/skills/
 
 # ZCode
-cp -r yurenshu/skills/yurenshu ~/.zcode/skills/
+cp -r harness-man-skills/skills/yurenshu ~/.zcode/skills/
 
 # Codex and other Agent Skills-compatible tools: same idea
 ```

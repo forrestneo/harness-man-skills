@@ -86,13 +86,13 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/forrestneo/yurenshu.git
+git clone https://github.com/forrestneo/harness-man-skills.git
 
 # Claude Code
-cp -r yurenshu/skills/yurenshu ~/.claude/skills/
+cp -r harness-man-skills/skills/yurenshu ~/.claude/skills/
 
 # ZCode
-cp -r yurenshu/skills/yurenshu ~/.zcode/skills/
+cp -r harness-man-skills/skills/yurenshu ~/.zcode/skills/
 
 # Codex 及其他支持 Agent Skills 的工具同理
 ```
