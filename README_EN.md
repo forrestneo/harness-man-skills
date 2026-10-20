@@ -20,6 +20,8 @@ This repo turns that list into a complete **management-development system**, pac
 
 One line: **most "management tips" content teaches you slogans. This library builds your management thinking.**
 
+The value proposition traces to Drucker: **management is the discovery of value** — the 70 so-called "problems" are 70 misplaced values (chronic comparison = competitive drive; the "troublemaker" = conviction; the "veteran slacker" = organizational memory). The library ships a "value-discovery lens" table: find the value first, then apply the method.
+
 ## What we believe
 
 - **Control earns compliance; growth earns followership.** This library teaches the ability to grow people, not tricks to control them.
@@ -39,6 +41,7 @@ One line: **most "management tips" content teaches you slogans. This library bui
 | Theory anchor | `18` Drucker | Thirteen lectures — MBO, staffing to strengths, feedback analysis, knowledge workers — each mapped to a rule and cross-referenced with a classical Chinese case |
 | Bilingual index | `19-中英索引.md` | The 70-rule CN/EN lookup table, English versions of the principles and diagnostic questions, English action-card template, citation norms |
 | AI-era mission | `20-AI时代管理映射.md` | **Everyone is a manager now**: the 20-move mapping between managing people and managing AI agents, three AI-only insights, and a growth path from managing AI to managing people |
+| Heart-led management | `22-稻盛和夫.md` | Kazuo Inamori's complete system: the success equation (mindset can be negative!), amoeba management, the three-type flammability model, glass-clear transparency, the six endeavors, the 424-day JAL turnaround, five counter-recession moves — Drucker shows how to do things right; Inamori shows how to set people on fire |
 | Organizational practice | `21-毛选管理智慧.md` | From the Selected Works: how a few dozen people scaled to organizing a nation — the twelve work methods for leadership committees (each mapped to a rule), contradiction analysis, the mass line, cadre policy, the Sanwan reorganization, protracted-war pacing, plus the business legacy (Huawei, Shi Yuzhu, Wahaha, Alibaba's HR system) |
 
 ## A taste of the cases
@@ -105,7 +108,8 @@ skills/yurenshu/
     ├── 18-德鲁克.md           # Drucker anchor (East-meets-West cross-references)
     ├── 19-中英索引.md          # Bilingual index (EN lookup table & templates)
     ├── 20-AI时代管理映射.md      # Everyone is a manager: people×AI mapping
-    └── 21-毛选管理智慧.md        # Organizational practice from the Selected Works
+    ├── 21-毛选管理智慧.md        # Organizational practice from the Selected Works
+    └── 22-稻盛和夫.md            # Heart-led management: equation + amoeba + JAL
 ```
 
 ## Notes & credits
