@@ -1,4 +1,4 @@
-# Yurenshu · 驭人术
+# Harness Man Skills · 驭人术
 
 > **The Art of Managing People — for everyone in the AI era.** A positive management-development system: 70 situations, 700 cases, nine management mindsets, and **two entry points** — bring a specific problem and get an action card (with a three-round game tree); bring only a vague situation and get a full assessment (situation naming + insight-grade output). Works in both Chinese and English.
 
