@@ -36,13 +36,8 @@ The value proposition traces to Drucker: **management is the discovery of value*
 | Master file | `00-驭人七十策.md` | **The Seventy Practices** — each rule gets a four-character classical name, a chantable one-liner, paired classical allusions (one positive, one cautionary), and an editorial note. The format echoes classical Chinese compendia, but every entry lands on a modern management problem |
 | Method library | `01`–`09` (nine modules) | **70 situations × 10 cases = 700 entries**, tagged 【enterprise】【history】【research】【cautionary】. Each module trains one management mindset: system thinking, transparency, growth thinking, pacing, motivation, psychological safety, structured communication, process thinking |
 | Scripts & boundaries | `10` | Verbatim scripts for 12 common scenarios; five value boundaries; the four-question self-check; China labor-law compliance notes |
-| Classical annex | `11` Zizhi Tongjian · `12` Thick Black Theory · `13` Shiji & Zhanguoce | 30 cases from Sima Guang's *Comprehensive Mirror*; manipulation tactics as identification-only specimens (learn to spot them, never to use them); **rule-by-rule classical sourcing** from the *Records of the Grand Historian* and *Strategies of the Warring States* |
-| Fiction annex | `14` Ming dynasty · `15` Three Kingdoms · `16` Journey to the West · `17` Water Margin | Ming officialdom as a full panorama of organizational lessons; Three Kingdoms persuasion & psychology (every case tagged **history / novel / invented / inverted**); the Journey to the West team as the most famous five-person startup; Water Margin as the complete anatomy of organizational failure |
-| Theory anchor | `18` Drucker | Thirteen lectures — MBO, staffing to strengths, feedback analysis, knowledge workers — each mapped to a rule and cross-referenced with a classical Chinese case |
-| Bilingual index | `19-中英索引.md` | The 70-rule CN/EN lookup table, English versions of the principles and diagnostic questions, English action-card template, citation norms |
-| AI-era mission | `20-AI时代管理映射.md` | **Everyone is a manager now**: the 20-move mapping between managing people and managing AI agents, three AI-only insights, and a growth path from managing AI to managing people |
-| Heart-led management | `22-稻盛和夫.md` | Kazuo Inamori's complete system: the success equation (mindset can be negative!), amoeba management, the three-type flammability model, glass-clear transparency, the six endeavors, the 424-day JAL turnaround, five counter-recession moves — Drucker shows how to do things right; Inamori shows how to set people on fire |
-| Organizational practice | `21-毛选管理智慧.md` | From the Selected Works: how a few dozen people scaled to organizing a nation — the twelve work methods for leadership committees (each mapped to a rule), contradiction analysis, the mass line, cadre policy, the Sanwan reorganization, protracted-war pacing, plus the business legacy (Huawei, Shi Yuzhu, Wahaha, Alibaba's HR system) |
+| Case supplements | `11`–`18`, `21`, `22` | **Case material for the 70 rules**, pulled in when a rule is matched — rule-by-rule classical sourcing (Shiji & Zhanguoce), 30 cases from the Zizhi Tongjian, Three Kingdoms (history/novel tagged), Ming / Journey West / Water Margin, figure cases (Drucker / Selected Works / Inamori), manipulation-tactic identification. Case sources, not parallel systems |
+| Function files | `19` · `20` · `23` | `19` bilingual index (70-rule lookup + EN action-card template); `20` people×AI mapping (everyone is a manager now); `23-攻防三层教学.md`: the **attack-defense layers** — how the manager uses the move, how the subordinate best responds once they see it, and the manager's re-counter (mirror principle: only moves that survive being seen through are good moves) |
 
 ## A taste of the cases
 
@@ -109,7 +104,8 @@ skills/yurenshu/
     ├── 19-中英索引.md          # Bilingual index (EN lookup table & templates)
     ├── 20-AI时代管理映射.md      # Everyone is a manager: people×AI mapping
     ├── 21-毛选管理智慧.md        # Organizational practice from the Selected Works
-    └── 22-稻盛和夫.md            # Heart-led management: equation + amoeba + JAL
+    ├── 22-稻盛和夫.md            # Case supplement: equation + amoeba + JAL
+    └── 23-攻防三层教学.md        # Attack-defense layers: move / counter / re-counter
 ```
 
 ## Notes & credits
