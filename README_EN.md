@@ -37,7 +37,7 @@ The value proposition traces to Drucker: **management is the discovery of value*
 | Method library | `01`–`09` (nine modules) | **70 situations × 10 cases = 700 entries**, tagged 【enterprise】【history】【research】【cautionary】. Each module trains one management mindset: system thinking, transparency, growth thinking, pacing, motivation, psychological safety, structured communication, process thinking |
 | Scripts & boundaries | `10` | Verbatim scripts for 12 common scenarios; five value boundaries; the four-question self-check; China labor-law compliance notes |
 | Case supplements | `11`–`18`, `21`, `22` | **Case material for the 70 rules**, pulled in when a rule is matched — rule-by-rule classical sourcing (Shiji & Zhanguoce), 30 cases from the Zizhi Tongjian, Three Kingdoms (history/novel tagged), Ming / Journey West / Water Margin, figure cases (Drucker / Selected Works / Inamori), manipulation-tactic identification. Case sources, not parallel systems |
-| Function files | `19` · `20` · `23` | `19` bilingual index (70-rule lookup + EN action-card template); `20` people×AI mapping (everyone is a manager now); `23-攻防三层教学.md`: the **attack-defense layers** — how the manager uses the move, how the subordinate best responds once they see it, and the manager's re-counter (mirror principle: only moves that survive being seen through are good moves) |
+| Function files | `19` · `20` · `23` | `19` bilingual index (70-rule lookup + EN action-card template); `20` people×AI mapping (everyone is a manager now); `23-攻防三回合推演.md`: the **full three-round game tree** — a move plus a counter is one round; every subsequent move chains off the flaw in the previous counter, ending at the equilibrium (mirror principle: only moves that survive being seen through are good moves) |
 
 ## A taste of the cases
 
@@ -105,7 +105,7 @@ skills/yurenshu/
     ├── 20-AI时代管理映射.md      # Everyone is a manager: people×AI mapping
     ├── 21-毛选管理智慧.md        # Organizational practice from the Selected Works
     ├── 22-稻盛和夫.md            # Case supplement: equation + amoeba + JAL
-    └── 23-攻防三层教学.md        # Attack-defense layers: move / counter / re-counter
+    └── 23-攻防三回合推演.md      # Full game tree: 3 rounds, chained moves, equilibrium
 ```
 
 ## Notes & credits
