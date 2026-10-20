@@ -1,10 +1,16 @@
 # Yurenshu · 驭人术
 
-> **The Art of Managing People** — a positive, practical management-development system: 70 real workplace situations, 700 cases, and nine management mindsets. Helps managers grow people, grow teams, and grow themselves. Works in both Chinese and English (`references/19-中英索引.md` ships the full bilingual lookup table and English action-card templates).
+> **The Art of Managing People — for everyone in the AI era.** A positive, practical management-development system: 70 real workplace situations, 700 cases, nine management mindsets. Helps you grow people, grow teams, and grow yourself — and manage AI agents too, because **in the AI era, everyone is a manager**. Works in both Chinese and English (`references/19-中英索引.md`).
 
 [中文 README](README.md) · MIT License
 
 ---
+
+## The mission: everyone is a manager now
+
+For most of history, most people never managed anyone — management was a skill for the few. The AI era changes that: **everyone now manages intelligent agents.** Management is no longer an elective for leaders; it is basic literacy for everyone.
+
+This library serves both: **learning to manage people is learning to manage AI agents.** Aligning goals, decomposing tasks, accepting deliverables, iterating on feedback, orchestrating collaboration — the five core management moves are identical for human teammates and AI agents (see `references/20-AI时代管理映射.md` for the 20-move mapping: written requirements → the prompt trio; break-it-down → task decomposition; a brick for jade → few-shot examples; glad-to-hear-faults → rewarding an AI that says "I'm not sure"). Never managed anyone? Start with AI — it's a zero-cost practice field for management.
 
 ## What is this
 
@@ -32,6 +38,7 @@ One line: **most "management tips" content teaches you slogans. This library bui
 | Fiction annex | `14` Ming dynasty · `15` Three Kingdoms · `16` Journey to the West · `17` Water Margin | Ming officialdom as a full panorama of organizational lessons; Three Kingdoms persuasion & psychology (every case tagged **history / novel / invented / inverted**); the Journey to the West team as the most famous five-person startup; Water Margin as the complete anatomy of organizational failure |
 | Theory anchor | `18` Drucker | Thirteen lectures — MBO, staffing to strengths, feedback analysis, knowledge workers — each mapped to a rule and cross-referenced with a classical Chinese case |
 | Bilingual index | `19-中英索引.md` | The 70-rule CN/EN lookup table, English versions of the principles and diagnostic questions, English action-card template, citation norms |
+| AI-era mission | `20-AI时代管理映射.md` | **Everyone is a manager now**: the 20-move mapping between managing people and managing AI agents, three AI-only insights, and a growth path from managing AI to managing people |
 
 ## A taste of the cases
 
@@ -78,9 +85,10 @@ The skill returns an action card: assessment (willingness and morale, not abilit
 ## Who it's for
 
 - **Managers** with a specific, live people problem — look up the situation, get the action card
+- **Everyone in the AI era** — the first "subordinate" you manage may well be an AI agent; all 70 methods work for both, and managing AI is a zero-cost practice field
 - **Creators** writing about management — each practice ships with name, jingle, allusion, cases, and watch-out: one practice = one short video; one module = one long-form essay; all seventy = a course
 - **Students of organizations** — 700 catalogued cases across 2,000 years and a dozen countries, indexed by situation
-- **Managers worldwide** — two millennia of Chinese management wisdom (from Sima Qian to Drucker), served bilingually
+- **Users worldwide** — two millennia of Chinese management wisdom (from Sima Qian to Drucker), served bilingually
 
 ## Repository layout
 
@@ -94,7 +102,8 @@ skills/yurenshu/
     ├── 11…13-*.md            # Zizhi Tongjian / Thick Black Theory / Shiji & Zhanguoce annexes
     ├── 14…17-*.md            # Ming / Three Kingdoms / Journey West / Water Margin annexes
     ├── 18-德鲁克.md           # Drucker anchor (East-meets-West cross-references)
-    └── 19-中英索引.md          # Bilingual index (EN lookup table & templates)
+    ├── 19-中英索引.md          # Bilingual index (EN lookup table & templates)
+    └── 20-AI时代管理映射.md      # Everyone is a manager: people×AI mapping
 ```
 
 ## Notes & credits

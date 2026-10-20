@@ -1,12 +1,18 @@
 ---
 name: 驭人术
-description: 培养管理者管理思维的正向系统（中英双语）。70个真实管理情境→思维定性（能力/意愿/结构）→九大方法库→落地步骤→话术→注意事项，每条配10个案例（企业/历史/研究/警示四类），帮管理者成就下属、成就团队、成就自己。当用户描述带人难题、团队困境，或要学习、写作、讲授管理内容时使用。A positive management-development skill (bilingual): 70 real situations → assess (skill/will/structure) → methods from 9 modules → steps → scripts → watch-outs, 10 cases each. Helps managers grow people, grow teams, and grow themselves. Use for any people-management question or content-creation need, in Chinese or English. Follow the user's language for output; see the Language Protocol and references/19-中英索引.md for the bilingual lookup table.
+description: 培养管理思维的正向系统（中英双语）。70个真实管理情境→思维定性（能力/意愿/结构）→九大方法库→落地步骤→话术→注意事项，每条配10个案例，帮每个人成就下属、成就团队、成就自己。AI 时代人人都是管理者——方法同样适用于管理 AI 智能体（任务设计、验收标准、反馈循环）。当用户描述带人难题、团队困境、AI 协作管理，或要学习、写作、讲授管理内容时使用。A positive management-development skill (bilingual): 70 real situations → assess (skill/will/structure) → methods from 9 modules → steps → scripts → watch-outs, 10 cases each. In the AI era everyone manages—these methods apply equally to managing AI agents (task design, acceptance criteria, feedback loops). Use for people-management questions, AI-collaboration questions, or content creation, in Chinese or English. See the Language Protocol and references/19-中英索引.md.
 ---
 
 # 驭人术：管理者的思维训练手册
 
 > 原来领导都是这样管理下属的——70 个管理情境、700 个真实案例、九种管理思维。
 > 好的管理，是让平凡的人做出不平凡的事。（德鲁克《管理的实践》）
+
+## 〇、时代使命：人人都是管理者
+
+历史上，大多数人一辈子没有管理过任何人——管理是少数人的职业技能。AI 时代，这一切改变了：**每个人都需要管理智能体**。管理学不再是领导者的选修课，而是每个人的基础素养。
+
+这套库的双重使命：**学会管理下属，也是学会管理 AI 智能体**——目标对齐、任务拆解、过程验收、反馈迭代、分工协作，五个核心动作对人和对 AI 完全同构（完整映射见 references/20-AI时代管理映射.md）。区别只有一处：人类下属会"不为"，AI 只有"不能"——所以对 AI 出问题先改指令；这条练熟了，对人也一样。
 
 ## 一、这个系统信什么
 
@@ -57,6 +63,8 @@ description: 培养管理者管理思维的正向系统（中英双语）。70�
 说部专栏：references/14-明朝那些事儿.md（明代组织问题全样本）；references/15-三国演义.md（话术与心理，每个案例标注【正史】【演义】【虚构】【反转】）；references/16-西游记.md（团队管理寓言）；references/17-水浒传.md（组织失败全样本，与方法库一反一正对读）；references/18-德鲁克.md（现代管理学锚点，十三讲东西对照）。
 
 双语索引：references/19-中英索引.md——**Bilingual Index**：70 条情境/计名/方法中英对照总表、英文版信念与定性三问、英文行动卡模板、引用规范。英文模式必经此栏。
+
+时代使命：references/20-AI时代管理映射.md——**AI 时代人人都是管理者**：管人 × 管 AI 的 20 条核心映射表（书面确认→prompt 三件套、化整为零→任务分解、抛砖引玉→few-shot、闻过则喜→鼓励不确定性……）、AI 管理三个独有洞察、从"管 AI"到"管人"的成长路径。
 
 话术与边界在最后：references/10-话术与红线.md
 
