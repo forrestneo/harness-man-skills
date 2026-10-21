@@ -47,7 +47,7 @@ Running through all of it, the **mirror principle**: only moves that survive bei
 |---|---|---|
 | Core method library | `01`–`09` (nine modules) | **70 situations × 10 cases = 700 entries** (enterprise / history / research / cautionary tags); each module trains one management mindset |
 | Master file | `00-驭人七十策.md` | The Seventy Practices — four-character classical names, chantable one-liners, paired allusions, editorial notes |
-| Case supplements | `11`–`18`, `21`, `22` | **Case material for the 70 rules**, pulled in when a rule is matched — rule-by-rule classical sourcing (Shiji & Zhanguoce), 30 cases from the Zizhi Tongjian, Three Kingdoms (history/novel tagged), Ming / Journey West / Water Margin, figure cases (Drucker / Selected Works / Inamori), manipulation-tactic identification. Case sources, not parallel systems |
+| Case supplements | `11`–`18`, `22` | **Case material for the 70 rules**, pulled in when a rule is matched — rule-by-rule classical sourcing (Shiji & Zhanguoce), 30 cases from the Zizhi Tongjian, Three Kingdoms (history/novel tagged), Ming / Journey West / Water Margin, figure cases (Drucker / Inamori), manipulation-tactic identification. Case sources, not parallel systems |
 | Scripts & boundaries | `10` | Verbatim scripts for 12 scenarios; five value boundaries; the four-question self-check; China labor-law notes |
 | Function files | `19` · `20` · `23` · `24` | `19` bilingual index; `20` people×AI mapping; `23` the three-round game trees (15 rules); `24` situation assessment + naming library + six insight techniques |
 
@@ -116,7 +116,7 @@ skills/harness-man-skills/
     ├── 00-驭人七十策.md        # Master file (names / jingles / allusions / notes)
     ├── 01…09-*.md            # Core method library (700 entries, nine mindsets)
     ├── 10-话术与红线.md        # Scripts, value boundaries, labor-law notes
-    ├── 11…18, 21, 22-*.md    # Case supplements (pulled in when matched)
+    ├── 11…18, 22-*.md       # Case supplements (pulled in when matched)
     ├── 19-中英索引.md          # Bilingual index
     ├── 20-AI时代管理映射.md    # People×AI mapping
     ├── 23-攻防三回合推演.md     # Full game trees + equilibria
